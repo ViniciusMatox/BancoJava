@@ -16,7 +16,7 @@ public class Desafio {
 
         String menu = """
                 Digite sua opção: 
-                1- Falar com um atendente
+                1- Falar com um atendente (total de atendentes disponíveis: 0)
                 2- Transferir valor
                 3- Receber valor
                 4- Sair
